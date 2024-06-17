@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("livroDeOfertas")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("menorDistanciaArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a493f0991102a114fb7e6d26dc9e8a6100c35059")]
-[assembly: System.Reflection.AssemblyProductAttribute("livroDeOfertas")]
-[assembly: System.Reflection.AssemblyTitleAttribute("livroDeOfertas")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33cf63f8fb105dde24d52e684675b05b299700e4")]
+[assembly: System.Reflection.AssemblyProductAttribute("menorDistanciaArray")]
+[assembly: System.Reflection.AssemblyTitleAttribute("menorDistanciaArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

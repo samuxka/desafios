@@ -1,0 +1,15 @@
+C:\Users\Pichau\Documents\cursos\desafios\menorDistanciaArray\bin\Debug\net8.0\menorDistanciaArray.exe
+C:\Users\Pichau\Documents\cursos\desafios\menorDistanciaArray\bin\Debug\net8.0\menorDistanciaArray.deps.json
+C:\Users\Pichau\Documents\cursos\desafios\menorDistanciaArray\bin\Debug\net8.0\menorDistanciaArray.runtimeconfig.json
+C:\Users\Pichau\Documents\cursos\desafios\menorDistanciaArray\bin\Debug\net8.0\menorDistanciaArray.dll
+C:\Users\Pichau\Documents\cursos\desafios\menorDistanciaArray\bin\Debug\net8.0\menorDistanciaArray.pdb
+C:\Users\Pichau\Documents\cursos\desafios\menorDistanciaArray\obj\Debug\net8.0\menorDistanciaArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\cursos\desafios\menorDistanciaArray\obj\Debug\net8.0\menorDistanciaArray.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\cursos\desafios\menorDistanciaArray\obj\Debug\net8.0\menorDistanciaArray.AssemblyInfo.cs
+C:\Users\Pichau\Documents\cursos\desafios\menorDistanciaArray\obj\Debug\net8.0\menorDistanciaArray.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\cursos\desafios\menorDistanciaArray\obj\Debug\net8.0\menorDistanciaArray.sourcelink.json
+C:\Users\Pichau\Documents\cursos\desafios\menorDistanciaArray\obj\Debug\net8.0\menorDistanciaArray.dll
+C:\Users\Pichau\Documents\cursos\desafios\menorDistanciaArray\obj\Debug\net8.0\refint\menorDistanciaArray.dll
+C:\Users\Pichau\Documents\cursos\desafios\menorDistanciaArray\obj\Debug\net8.0\menorDistanciaArray.pdb
+C:\Users\Pichau\Documents\cursos\desafios\menorDistanciaArray\obj\Debug\net8.0\menorDistanciaArray.genruntimeconfig.cache
+C:\Users\Pichau\Documents\cursos\desafios\menorDistanciaArray\obj\Debug\net8.0\ref\menorDistanciaArray.dll
